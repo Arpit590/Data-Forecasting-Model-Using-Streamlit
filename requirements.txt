@@ -1,0 +1,4 @@
+streamlit==0.67.1
+pandas==1.0.5
+fbprophet==0.7.1
+PIL
